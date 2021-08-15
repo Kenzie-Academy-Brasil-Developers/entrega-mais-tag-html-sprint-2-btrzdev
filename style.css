@@ -1,0 +1,41 @@
+h1 {
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    background-color:black;
+    
+}
+
+h3{
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    background-color: black;
+}
+
+body {
+    margin: 5%;
+    margin-right: 10%;
+}
+
+img, p{
+    display: inline-block;
+    vertical-align:top;
+}
+
+p { 
+    font-family: 'Roboto Mono', monospace;
+    text-align: justify;
+    width: 50%;
+}
+
+ol {
+    font-family: 'Roboto Mono', monospace;
+}
+
+ul {
+    font-family: 'Roboto Mono', monospace;
+    font-style: italic;
+}
+
+details {
+    font-family: 'Roboto Mono', monospace;
+}
